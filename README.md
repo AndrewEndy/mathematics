@@ -19,4 +19,5 @@
 ## 🛠️ Встановлення
 1. Клонуйте репозиторій:
    ```bash
-   git clone https://github.com/yourusername/mathematics.git
+   git clone https://github.com/AndrewEndy/mathematics.git
+   
