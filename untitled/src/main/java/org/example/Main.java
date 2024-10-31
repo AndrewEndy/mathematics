@@ -10,7 +10,16 @@ public class Main {
         Plus plus = new Plus();
         System.out.println("Результат додавання: " + plus.add(5, 3));
 
+
+      
         System.out.println("Andrew molodec!");
+
+        Dilenya dilenya = new Dilenya();
+        System.out.println("Результат ділення: " + dilenya.add(10, 2));
+
+
+      
+        System.out.println("vadim lox");
 
     }
 }
