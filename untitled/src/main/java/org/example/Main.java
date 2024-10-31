@@ -10,5 +10,7 @@ public class Main {
         Plus plus = new Plus();
         System.out.println("Результат додавання: " + plus.add(5, 3));
 
+        System.out.println("Andrew molodec!");
+
     }
 }
