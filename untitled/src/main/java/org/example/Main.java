@@ -21,5 +21,7 @@ public class Main {
       
         System.out.println("vadim lox");
 
+
+        System.out.println("Результат ділення: " + dilenya.add(10, 2));
     }
 }
