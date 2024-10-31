@@ -13,5 +13,7 @@ public class Main {
         Dilenya dilenya = new Dilenya();
         System.out.println("Результат ділення: " + dilenya.add(10, 2));
 
+
+        System.out.println("vadim lox");
     }
 }
